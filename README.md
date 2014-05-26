@@ -7,12 +7,11 @@ You can use the dictionary with a specific datatype like the one in c#.
 
 Please instantiate the class with one of the following datatypes
 
-  integer
-  string
-  double
-  array
-  object
-  resource
+  integer,
+  double,
+  array,
+  object,
+  resource and
   NULL
 
 EXAMPLE
